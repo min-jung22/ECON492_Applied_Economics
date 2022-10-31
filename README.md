@@ -1,4 +1,4 @@
-# ECON492_Applied_Economics
+#### ECON492_Applied_Economics
 
 22년도 2학기 ECON492 응용경제연습(The Senior Essay: Applied Economics)
 
@@ -8,9 +8,11 @@
 
 //에서 분석시도 코드를 날짜별로 정리해 업로드할 계획
 
-현 진행상황
 
-(10/28)
+
+### 현 진행상황
+
+## (10/28)
 
 내생성을 제외하고 선형회귀 및 내생성 변수를 추가한 잘못된 선형회귀를 우선 진행했음(lm()함수사용)
 
